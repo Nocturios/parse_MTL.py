@@ -5,9 +5,9 @@
     Description-DE:Starten Sie dieses Skript nach dem Import einer OBJ-Datei. Es wird eine MTL-Datei einlesen und die Materialien bauen.
     
     
-    ImportMTL 1.1.3
+    ImportMTL 1.2.1
     ===============
-    2013 by www.c4d-jack.de
+    2022 edit by Nocturios
     
     
     Description

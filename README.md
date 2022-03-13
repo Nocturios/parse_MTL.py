@@ -1,5 +1,5 @@
 # Parse_MTL.py
-##### Version 1.1.4
+##### Version 1.2.1
 
 ## Usage
 
